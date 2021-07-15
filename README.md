@@ -8,7 +8,7 @@ grand_parent: Coding Interviews
 ## Configuration
 I have created basic customer's page and customer details page by using Bigcommerce API Client. To review this assignment, you will need to follow the below instructions.
 
-  * After downloading from GitHub, You need to copy the all files and folders into one directory within root directory.
+  * After downloading from GitHub, you need to copy the all files and folders into one directory within root directory.
   * Then, you need to set the database details in .env file as per your server setup.
   * Before you run the application, you will need to generate an application key. You can do so by running: 
   ``` 
