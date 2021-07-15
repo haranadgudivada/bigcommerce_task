@@ -3,7 +3,7 @@ title: Customers (PHP)
 parent: Assignments
 grand_parent: Coding Interviews
 ---
-# Tech Test Information (For assignment information, please refer from line 21)
+# Tech Test Information
 
 ## Configuration
 I have created basic customers page and customer details page by using Bigcommerce API Client. To review this assignment, You need to follow below instructions.
@@ -24,7 +24,7 @@ I have created basic customers page and customer details page by using Bigcommer
   ## Thank You
 
 
-#======================== Assignment Informaton======================
+#================== Assignment Informaton=================
 ---
 title: Customers (PHP)
 parent: Assignments
