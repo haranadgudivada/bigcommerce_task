@@ -10,8 +10,14 @@ I have created basic customers page and customer details page by using Bigcommer
 
   * After downloading from GitHub, You need to copy the all files and folders into one directory with in root directory.
   * You need to set the database details in .env file as per your server.
-  * Before you can run the application, you need to generate an application key. You can do so by running: php artisan key:generate
-  * To serve the application. You can do so by running: php artisan serve
+  * Before you can run the application, you need to generate an application key. You can do so by running: 
+  ``` 
+  php artisan key:generate
+  ```
+  * To serve the application. You can do so by running:
+  ```
+  php artisan serve
+  ```
   * You need to open the provided url after serve the application.
   * You can explore the customers and customer details pages.
 
